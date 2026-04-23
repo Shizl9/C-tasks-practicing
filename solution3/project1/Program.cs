@@ -126,6 +126,37 @@
             Console.WriteLine("sum of even number=" + evenSum);
             Console.WriteLine("sum of odd number=" + oddSum);
 
+
+
+            //Task 6 – Password Retry System
+            Console.WriteLine("Enter the password:");
+            string password = Console.ReadLine();
+            int attempts = 3;
+            while (attempts > 0)
+            {
+                if (password == "1234")
+                {
+                    Console.WriteLine("Access granted");
+                    break;
+                }
+                else
+                {
+                    attempts--;
+                    Console.WriteLine("Wrong password");
+                    if (attempts > 0)
+                    {
+                        Console.WriteLine(" Attempts left: " + attempts);
+                        password = Console.ReadLine();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Account Locked");
+                    }
+                }
+
+            }
+
+
         }
     }
 }
