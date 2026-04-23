@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sheik\\OneDrive\\Documents\\swq-solution\\solution3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E40E43A-30B5-4DE3-97F2-AA8CD6CED3A7}|project1\\project1.csproj|c:\\users\\sheik\\onedrive\\documents\\swq-solution\\solution3\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E40E43A-30B5-4DE3-97F2-AA8CD6CED3A7}|project1\\project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|c:\\users\\sheik\\onedrive\\documents\\swq-solution\\solution3\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "project1\\Program.cs",
               "ToolTip": "C:\\Users\\sheik\\OneDrive\\Documents\\swq-solution\\solution3\\project1\\Program.cs",
               "RelativeToolTip": "project1\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T04:21:32.631Z",
               "EditorCaption": ""
