@@ -50,6 +50,22 @@ if (num > 0)
                 Console.WriteLine("Fail");
             }
 
+
+
+            //***************Task4**************
+            Console.WriteLine("Enter username:");
+            string username = Console.ReadLine();
+            Console.WriteLine("Enter paasword:");
+            string password = Console.ReadLine();
+            if (username == "admin" && password == "1234")
+            {
+                Console.WriteLine("Login Successful");
+            }
+            else
+            {
+                Console.WriteLine("Invalide username or password!");
+            }
+
         }
     }
 }
