@@ -49,6 +49,25 @@
                 Console.WriteLine(number + " x " + i + " = " + (number * i));
 
             }
+
+
+            //Task 3 – Countdown Timer:
+            Console.Write("Enter a positive number : ");
+            int count = int.Parse(Console.ReadLine());
+            if (number <= 0)
+            {
+                Console.WriteLine("Please enter a positive number");
+            }
+            else
+            {
+                while (number >= 1)
+                {
+                    Console.WriteLine(number);
+                    number--;
+                }
+
+                Console.WriteLine("Go!");
+            }
         }
     }
 }
