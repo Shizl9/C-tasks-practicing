@@ -242,9 +242,59 @@
                 Console.WriteLine("No prime numbers found");
             }
 
+            //Task 9 – Student Grade Report
+            Console.Write("Enter number of students: ");
+            int numberofstudents = int.Parse(Console.ReadLine());
+            int excellent = 0;
+            int verygood = 0;
+            int good = 0;
+            int pass = 0;
+            int fail = 0;
+            int highest = int.MinValue;
+            int lowest = int.MaxValue;
+            for (int i = 1; i <= numberofstudents; i++)
+            {
+                Console.Write("Enter score for student " + i + ": ");
+                int score = int.Parse(Console.ReadLine());
+                if (score > highest) highest = score;
+                if (score < lowest) lowest = score;
+
+                int gradeKey = score / 10;
+                switch (gradeKey)
+                {
+                    case 10:
+                    case 9:
+                        excellent++;
+                        break;
+                    case 8:
+                        verygood++;
+                        break;
+                    case 7:
+                        good++;
+                        break;
+                    case 6:
+                        pass++;
+                        break;
+                    default:
+                        fail++;
+                        break;
+                }
+                Console.WriteLine("\n--- Grade Report ---");
+                Console.WriteLine("Excellent: " + excellent);
+                Console.WriteLine("Very Good: " + verygood);
+                Console.WriteLine("Good: " + good);
+                Console.WriteLine("Pass: " + pass);
+                Console.WriteLine("Fail: " + fail);
+
+                Console.WriteLine("Highest Score: " + highest);
+                Console.WriteLine("Lowest Score: " + lowest);
+            }
+
+         
 
         
-        }
+
+    }
 
     }
 
