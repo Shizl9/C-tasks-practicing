@@ -105,6 +105,27 @@
                     break;
             }
 
+
+            //Task 5 – Sum of Even and Odd Numbers
+
+            Console.Write("Enter a positive number: ");
+            int n = int.Parse(Console.ReadLine());
+            int evenSum = 0;
+            int oddSum = 0;
+            for (int i = 1; i <= n; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    evenSum += i;
+                }
+                else
+                {
+                    oddSum += i;
+                }
+            }
+            Console.WriteLine("sum of even number=" + evenSum);
+            Console.WriteLine("sum of odd number=" + oddSum);
+
         }
     }
 }
