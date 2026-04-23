@@ -1,0 +1,17 @@
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\bin\Debug\net8.0-windows\StudentSystem.exe
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\bin\Debug\net8.0-windows\StudentSystem.deps.json
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\bin\Debug\net8.0-windows\StudentSystem.runtimeconfig.json
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\bin\Debug\net8.0-windows\StudentSystem.dll
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\bin\Debug\net8.0-windows\StudentSystem.pdb
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.Form1.resources
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.csproj.GenerateResource.cache
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.AssemblyInfo.cs
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.sourcelink.json
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.dll
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\refint\StudentSystem.dll
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.pdb
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.genruntimeconfig.cache
+C:\Users\sheik\OneDrive\Documents\swq-solution\StudentSystem\StudentSystem\obj\Debug\net8.0-windows\ref\StudentSystem.dll
