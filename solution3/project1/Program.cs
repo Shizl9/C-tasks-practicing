@@ -204,6 +204,48 @@
                 }
             }
 
+
+            //Task 8 – Prime Number Checker in a Range
+            Console.Write("Enter start number: ");
+            int start = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter end number: ");
+            int end = int.Parse(Console.ReadLine());
+
+            bool foundPrime = false;
+
+            for (int i = start; i <= end; i++)
+            {
+                if (i > 1)
+                {
+                    bool isPrime = true;
+
+                    for (int j = 2; j < i; j++)
+                    {
+                        if (i % j == 0)
+                        {
+                            isPrime = false;
+                            break;
+                        }
+                    }
+
+                    if (isPrime)
+                    {
+                        Console.WriteLine(i);
+                        foundPrime = true;
+                    }
+                }
+            }
+
+            if (!foundPrime)
+            {
+                Console.WriteLine("No prime numbers found");
+            }
+
+
+        
         }
+
     }
+
 }
