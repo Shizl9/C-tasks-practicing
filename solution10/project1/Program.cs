@@ -78,8 +78,38 @@
             }
             #endregion
             #region dictionary
-             
+            Dictionary<string, int> student = new Dictionary<string, int>();
+
+            // إضافة طالب
+            student.Add("Ali", 25);
+
+            // طباعة
+            Console.WriteLine($"Ali is {student["Ali"]} years old");
+
+            try
+            {
+                // تعديل قيمة Ali
+                student["Ali"] = 33;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            try
+            {
+                // حذف Ali
+                student.Remove("Ali");
+
+                // التحقق هل يوجد قيمة 33
+                Console.WriteLine(student.ContainsValue(33));
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
             #endregion
+
         }
     }
 }
