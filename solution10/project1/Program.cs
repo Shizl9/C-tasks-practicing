@@ -5,7 +5,15 @@
         static void Main(string[] args)
 
         {
-            
+            #region Stack
+            Stack<string> names = new Stack<string>();// Create a stack of strings named: names
+            //اضافة بيانات جاهزة :
+            names.Push("Yahya");
+            names.Push("Ahmed");
+            names.Push("Ali");
+            names.Push("Omar");
+            //
+            #endregion
             #region queue
             Queue<string> names = new Queue<string>();
 
