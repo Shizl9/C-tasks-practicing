@@ -1,0 +1,15 @@
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\bin\Debug\net8.0\project 1.exe
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\bin\Debug\net8.0\project 1.deps.json
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\bin\Debug\net8.0\project 1.runtimeconfig.json
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\bin\Debug\net8.0\project 1.dll
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\bin\Debug\net8.0\project 1.pdb
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.AssemblyInfoInputs.cache
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.AssemblyInfo.cs
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.csproj.CoreCompileInputs.cache
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.sourcelink.json
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.dll
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\refint\project 1.dll
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.pdb
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\project 1.genruntimeconfig.cache
+C:\Users\sheik\OneDrive\Documents\swq-solution\solution15\project 1\obj\Debug\net8.0\ref\project 1.dll
